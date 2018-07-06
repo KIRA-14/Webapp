@@ -1,0 +1,77 @@
+body {
+	background-color:#D8BFD8;
+	background-image:url(th.gif);
+	font-family:;
+	font-size: 25px;
+	padding:20px;
+	border-color:black;
+	border-width:20px;
+	border-style:solid;
+	margin:0;
+}
+vedio{
+	
+}
+h1 ,h4 {
+	background-color: purple; 
+	text-align:center; color:pink; 
+	border-bottom:1px solid white;
+	font-size:150%;
+	line-height:1em;
+	margin:0;
+}
+p {
+	color: red; 
+	font-size:25px; 
+	font-family:Helvetica; 
+	text-align:center;
+	font-size:1.2em;
+	margin:0;
+}
+p.Google_search{
+		color: purple; 
+		text-align:left;
+		margin:0;
+}
+marquee{
+		animation:blinker 1s linear infinite;
+}
+form{
+	font-size: 25px;
+	padding:20px;
+	border-color:black;
+	border-width:20px;
+	border-style:solid;
+	margin-right:20px;
+	padding-left:1em;
+	margin:0;
+}
+._image_html{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+	border-style:solid;
+}
+._html_video{
+	display: block;
+	margin-left:30em;
+	margin-top:auto;
+	margin-top:auto;
+}
+._html_audio{
+	display: block;
+	margin-top:auto;
+	margin-top:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
