@@ -9,9 +9,7 @@ body {
 	border-style:solid;
 	margin:0;
 }
-vedio{
-	
-}
+
 h1 ,h4 {
 	background-color: purple; 
 	text-align:center; color:pink; 
@@ -58,11 +56,15 @@ form{
 	margin-left:30em;
 	margin-top:auto;
 	margin-top:auto;
+	border-style:solid;
+	top:70em;
 }
 ._html_audio{
 	display: block;
 	margin-top:auto;
 	margin-top:auto;
+	border-style:solid;
+	top:70em;
 }
 
 
